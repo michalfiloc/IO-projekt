@@ -1,0 +1,309 @@
+commit 1b20c742174f02d6787c8af9b0b3abcb3f610fc5
+Author: Michał Fiłoc <263853113+michalfiloc@users.noreply.github.com>
+Date:   Sun May 31 16:56:30 2026 +0200
+
+    Add files via upload
+
+commit 3ea3058c6de24d5c931a23c3c3183536fe3db807
+Author: Michał Fiłoc <263853113+michalfiloc@users.noreply.github.com>
+Date:   Sun May 31 16:56:20 2026 +0200
+
+    Add files via upload
+
+commit f1888778d55f326f1c8f78fe512c08054c562d50
+Author: Michał Fiłoc <263853113+michalfiloc@users.noreply.github.com>
+Date:   Sun May 31 16:56:09 2026 +0200
+
+    Add files via upload
+
+commit 3b8790af74459527160d94d9e6e66f9ade82bdca
+Author: Michał Fiłoc <263853113+michalfiloc@users.noreply.github.com>
+Date:   Sun May 31 16:55:50 2026 +0200
+
+    Add files via upload
+
+commit 98cb2fefc20fc9487a063849c959861408d26def
+Author: Michał Fiłoc <263853113+michalfiloc@users.noreply.github.com>
+Date:   Sun May 31 16:55:35 2026 +0200
+
+    Add files via upload
+
+commit d96c9034b7481363fc852aac6c3c15b56414b8bb
+Author: Marekv3 <marek.urban004@gmail.com>
+Date:   Wed May 27 00:01:57 2026 +0200
+
+    Delete TC (p. 5.3)/p. 5.3.docx
+
+commit 8485d9e62cfe4c57770ac5e225f468c00e2a7efb
+Author: Marekv3 <marek.urban004@gmail.com>
+Date:   Wed May 27 00:00:23 2026 +0200
+
+    Add files via upload
+
+commit 472a6f15650138c9c80e8c75523e8f68c4c5eab6
+Author: Marekv3 <marek.urban004@gmail.com>
+Date:   Thu May 21 13:50:03 2026 +0200
+
+    Add files via upload
+
+commit 0d360ed32185f2614397f8398f3fbb6855f8eb69
+Author: Marekv3 <marek.urban004@gmail.com>
+Date:   Thu May 21 13:49:42 2026 +0200
+
+    Delete TC (p. 5.1, 5.2).docx
+
+commit e7133707c9bbc2276bcb2e484d6b1e0a7c612586
+Author: Marekv3 <marek.urban004@gmail.com>
+Date:   Thu May 21 13:49:24 2026 +0200
+
+    Add files via upload
+
+commit c46e462f54365855a6367a64c5042d8c589415d0
+Author: Marekv3 <marek.urban004@gmail.com>
+Date:   Thu May 21 13:48:39 2026 +0200
+
+    Delete TC (p. 5.1, 5.2)/TC (p. 5.1, 5.2).docx
+
+commit d8ffec977a138dbab5dcb71b8a65c50dc908dcc7
+Author: aleks453 <o_wyszkowska@o2.pl>
+Date:   Tue May 19 18:48:20 2026 +0200
+
+    Add files via upload
+
+commit f59e22b1a7ac0223f85582c8340d568d72b83768
+Author: aleks453 <o_wyszkowska@o2.pl>
+Date:   Tue May 12 23:55:08 2026 +0200
+
+    Add files via upload
+
+commit c490e137b379f65ed58d433ceead2ccc5d43061a
+Author: Marekv3 <marek.urban004@gmail.com>
+Date:   Tue May 12 22:07:53 2026 +0200
+
+    Add files via upload
+
+commit bd9232eeb20f417061d221b88341df9a97a11246
+Author: Marekv3 <marek.urban004@gmail.com>
+Date:   Tue May 12 22:06:25 2026 +0200
+
+    Delete TC (p. 5.1, 5.2)/TC (p. 5.1, 5.2).docx
+
+commit 21415c6aee8fc9082f94bdbddfdd8c90cfeef600
+Author: aleks453 <o_wyszkowska@o2.pl>
+Date:   Tue May 12 18:54:45 2026 +0200
+
+    Add files via upload
+
+commit 0c62c72fc62910c27c9577dcf5183d4ad888b0f9
+Author: aleks453 <o_wyszkowska@o2.pl>
+Date:   Tue May 12 18:53:58 2026 +0200
+
+    Delete TC (p. 4.2, 4.3)/p. 4.2, 4.3.docx
+
+commit f9501af7b5c57b259db988199944e9c00b37a0b0
+Author: aleks453 <o_wyszkowska@o2.pl>
+Date:   Tue May 12 18:53:04 2026 +0200
+
+    Add files via upload
+
+commit 44e313a87bc2f85c9f5fee9e39d776b4d04edc5e
+Author: Marekv3 <marek.urban004@gmail.com>
+Date:   Mon May 11 18:44:22 2026 +0200
+
+    Delete TC (p. 5.1, 5.2)/5.1,5.2.docx
+
+commit 94b2ff4424ceb4063e4fa5b1fd612369c35f6911
+Author: Marekv3 <marek.urban004@gmail.com>
+Date:   Mon May 11 18:43:22 2026 +0200
+
+    Add files via upload
+
+commit 973de12a3948861c497adc895add60a779d68294
+Author: aleks453 <o_wyszkowska@o2.pl>
+Date:   Sat May 9 12:43:13 2026 +0200
+
+    Add files via upload
+
+commit 0fb983e5e7b52274c4899abf61cee708270d4190
+Author: aleks453 <o_wyszkowska@o2.pl>
+Date:   Wed May 6 07:57:44 2026 +0200
+
+    Add files via upload
+
+commit e59c65a56f2b6c6ff1c6434e0421b8324f2d8e8b
+Author: aleks453 <o_wyszkowska@o2.pl>
+Date:   Sat May 2 19:58:50 2026 +0200
+
+    Add files via upload
+
+commit c79910ae53ce715382266875e6991ccff91e41e4
+Author: aleks453 <o_wyszkowska@o2.pl>
+Date:   Sat May 2 19:57:39 2026 +0200
+
+    Delete TC (p. 4.1)/TC (p 4.1).docx
+
+commit 3034cc132d426ac2e5b701a95f8076b90e98e12c
+Author: aleks453 <o_wyszkowska@o2.pl>
+Date:   Fri May 1 20:13:14 2026 +0200
+
+    Delete TC (p. 4.1)/TC (p. 4.1).docx
+
+commit 791b21170dbce065dd33fd5a07ce4555eed7a896
+Author: aleks453 <o_wyszkowska@o2.pl>
+Date:   Fri May 1 20:11:54 2026 +0200
+
+    Add files via upload
+
+commit 559b8f69b8d975273b0ff3f9eb7704bc172e647c
+Author: Marekv3 <marek.urban004@gmail.com>
+Date:   Wed Apr 29 10:46:06 2026 +0200
+
+    Delete TC (p. 4.1)/dane.xlsx
+
+commit 4f41b1bed3afbf68d2645d95bfc67d67b254b36f
+Author: Marekv3 <marek.urban004@gmail.com>
+Date:   Wed Apr 29 10:45:22 2026 +0200
+
+    Add files via upload
+
+commit fdf8d36a46fab37a586cffa4bf15870120c8f6ba
+Author: michalfiloc <michal.filoc0@gmail.com>
+Date:   Wed Apr 29 10:45:03 2026 +0200
+
+    Add files via upload
+
+commit 26bb95de78ba5fbb76ddcd1c04061ede98e313cd
+Author: michalfiloc <michal.filoc0@gmail.com>
+Date:   Wed Apr 29 10:44:30 2026 +0200
+
+    Add files via upload
+
+commit 7863a9ff935b37ca3bdd3a5fdb53c77f7cf15fdd
+Author: michalfiloc <michal.filoc0@gmail.com>
+Date:   Wed Apr 29 10:43:56 2026 +0200
+
+    Add files via upload
+
+commit 9f6646cc8447f4a32d60ca6523ecb5b968f7bbfc
+Author: Marekv3 <marek.urban004@gmail.com>
+Date:   Wed Apr 29 10:42:47 2026 +0200
+
+    Add files via upload
+
+commit 7d2d54d8bf1d8827b2aeb78b129b3e875a5551be
+Author: aleks453 <o_wyszkowska@o2.pl>
+Date:   Wed Apr 29 10:42:14 2026 +0200
+
+    Add files via upload
+
+commit fdf950b1f6d35fd745f75776ecb21d0990aca5d8
+Author: Marekv3 <marek.urban004@gmail.com>
+Date:   Wed Apr 29 10:42:10 2026 +0200
+
+    Add files via upload
+
+commit 819837a0c8efe7f54de9786cfcb82d97940f1571
+Author: michalfiloc <michal.filoc0@gmail.com>
+Date:   Wed Apr 29 10:42:09 2026 +0200
+
+    Delete TC (p. 5.1, 5.2)/p. 2, 5.4.docx
+
+commit ba2e81d972a69983dd42395c638cb977044e9c75
+Author: michalfiloc <michal.filoc0@gmail.com>
+Date:   Wed Apr 29 10:41:57 2026 +0200
+
+    Add files via upload
+
+commit cab8e0fda1658ec8669263ca6829414fc4dc2272
+Author: Marekv3 <marek.urban004@gmail.com>
+Date:   Wed Apr 29 10:41:41 2026 +0200
+
+    Add files via upload
+
+commit 1c8b0ea9953ddbeae0a75dc3a19212beaabcd145
+Author: michalfiloc <michal.filoc0@gmail.com>
+Date:   Wed Apr 29 10:40:37 2026 +0200
+
+    Delete TC (p. 2, 5.4)/IO_projekt_sprawozdanie.docx
+
+commit 7567956e0143dc9d4a74adf20e3d2e7e1fb8cdb4
+Author: michalfiloc <michal.filoc0@gmail.com>
+Date:   Wed Apr 29 10:40:04 2026 +0200
+
+    Add files via upload
+
+commit b2be47592846fdc838da5e04d14437d0a6e3eb80
+Author: Marekv3 <marek.urban004@gmail.com>
+Date:   Wed Apr 29 10:37:48 2026 +0200
+
+    Delete sampleFolder directory
+
+commit 6b2fec799c311aabd7ae1b2f66a521d845642c8a
+Author: Marekv3 <marek.urban004@gmail.com>
+Date:   Wed Apr 29 10:37:11 2026 +0200
+
+    Delete Nowy Obraz — mapa bitowa.bmp
+
+commit 14610a1e6b0ab37d2df11d855ed9ca6ae69b1411
+Author: michalfiloc <michal.filoc0@gmail.com>
+Date:   Wed Apr 29 10:36:54 2026 +0200
+
+    Add files via upload
+
+commit defa506ee9a3a54f68652fddeebc9715618afc69
+Author: Marekv3 <marek.urban004@gmail.com>
+Date:   Wed Apr 29 10:36:50 2026 +0200
+
+    Add files via upload
+
+commit 0d6cb6f0de74e9f029c2a5fb6c193c8924dd7c4a
+Author: Marekv3 <marek.urban004@gmail.com>
+Date:   Wed Apr 29 10:31:32 2026 +0200
+
+    Delete TC (p.5.1,5.2)
+
+commit 6250aa9938bbfc5b3b351365c4298bf2e360b3c8
+Author: Marekv3 <marek.urban004@gmail.com>
+Date:   Wed Apr 29 10:30:54 2026 +0200
+
+    Create TC (p.5.1,5.2)
+
+commit 39a38eb38d1f1b3905793640a5888a80109d3c80
+Author: Marekv3 <marek.urban004@gmail.com>
+Date:   Wed Apr 29 10:27:44 2026 +0200
+
+    Create TC (p.5.1,5.2)
+
+commit 5a0a46693fff877fb37e374e4c5cffd51a3d1b63
+Author: aleks453 <o_wyszkowska@o2.pl>
+Date:   Mon Apr 27 19:16:36 2026 +0200
+
+    Add files via upload
+
+commit 0933ae0a0ccb75eea03404b4605c530e7c1c221a
+Author: aleks453 <o_wyszkowska@o2.pl>
+Date:   Mon Apr 27 15:44:11 2026 +0200
+
+    Add files via upload
+    
+    Sprawozdanie całościowe
+
+commit c22e1efb238fcd30a51cfd6602510b126f18ea55
+Author: aleks453 <o_wyszkowska@o2.pl>
+Date:   Wed Apr 22 10:53:43 2026 +0200
+
+    Add files via upload
+    
+    Treść zadania
+
+commit b8391987481570b3829753d855af2c52f1f267ae
+Author: michalfiloc <michal.filoc0@gmail.com>
+Date:   Tue Apr 21 10:14:34 2026 +0200
+
+    Add files via upload
+
+commit 6bc575ff28e9e0718f150954810f20b8e424711c
+Author: michalfiloc <michal.filoc0@gmail.com>
+Date:   Tue Apr 21 10:10:02 2026 +0200
+
+    Initial commit
